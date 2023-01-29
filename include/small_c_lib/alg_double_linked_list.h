@@ -1,0 +1,6 @@
+#ifndef __AUTO_LIB_ALG_DOUBLE_LINKED_LIST_H__
+#define __AUTO_LIB_ALG_DOUBLE_LINKED_LIST_H__
+
+#endif
+
+
